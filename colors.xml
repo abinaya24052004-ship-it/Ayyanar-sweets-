@@ -1,0 +1,10 @@
+<resources>
+    <color name="maroon_dark">#24050B</color>
+    <color name="maroon">#5E0B16</color>
+    <color name="maroon_light">#7D1522</color>
+    <color name="gold">#D4AF37</color>
+    <color name="gold_light">#F3D77A</color>
+    <color name="cream">#FFF7E5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#100407</color>
+</resources>

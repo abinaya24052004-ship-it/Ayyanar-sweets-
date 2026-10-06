@@ -1,0 +1,17 @@
+Ayyanar Sweets Premium App
+Version 1.0
+
+The supplied APK was a WebView-style app. This source turns that concept into a cleaner
+mobile app shell while preserving the existing website as the content source.
+
+Next optional upgrade:
+- Native product catalogue
+- Cart
+- Quantity selector
+- Order summary
+- Native product details
+- Push notifications
+- Firebase Analytics
+- Firebase Cloud Messaging
+- Offline product cache
+- Custom Ayyanar Sweets logo asset
