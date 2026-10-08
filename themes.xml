@@ -1,10 +1,7 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Theme.AyyanarSweets" parent="Theme.Material3.DayNight.NoActionBar">
+<resources>
+    <style name="Theme.AyyanarSweets" parent="android:style/Theme.Material.Light.NoActionBar">
         <item name="android:fontFamily">sans</item>
-        <item name="android:windowLightStatusBar">false</item>
-        <item name="android:statusBarColor">@color/maroon_dark</item>
-        <item name="android:navigationBarColor">@color/maroon_dark</item>
-        <item name="android:windowBackground">@color/maroon_dark</item>
-        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:statusBarColor">#4B0A63</item>
+        <item name="android:navigationBarColor">#4B0A63</item>
     </style>
 </resources>
